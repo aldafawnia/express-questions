@@ -28,3 +28,6 @@ Type in the following to get new questions
 1. git fetch upstream/publish
 
 2. git merge publish
+1. git fetch upstream
+
+2. git merge upstream/publish --allow-unrelated-histories
